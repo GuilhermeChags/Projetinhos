@@ -1,4 +1,4 @@
-##  Chagas Store: Sua loja militar online! 
+##  Chagas Store: Sua loja militar online! - Imersão Dev com Google Gemini
 
 ###  Sobre a Chagas Store
 A Chagas Store é um projeto web simples, mas poderoso, que te permite pesquisar por produtos militares de forma rápida e fácil. A ideia é oferecer uma experiência de compra online intuitiva e completa para os amantes das forças armadas.
